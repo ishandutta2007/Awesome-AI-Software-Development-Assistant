@@ -71,7 +71,7 @@ The global AI coding assistant market size is estimated at **~$7.2 Billion in 20
 
 ## 🔓 Open-Source GitHub Projects 🌐
 
-*Sorted strictly by GitHub Star Count (Descending)* 🌟
+*Sorted strictly by GitHub Stars_Count (Descending)* 🌟
 
 - **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** [![Stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social&color=white)](https://github.com/Significant-Gravitas/AutoGPT/stargazers)  
   **The vision of accessible AI for everyone**, MIT licensed. ~185k+ stars. Pioneer of autonomous AI agent loops, task breakdown, and custom agentic coding capabilities. 🤖
@@ -135,7 +135,7 @@ Contributions are welcome and greatly appreciated! Help us keep this directory t
 
 1. 🍴 **Fork** this repository.
 2. 📝 **Add or update** entries in `README.md` following the existing format.
-3. 🔗 Include project title, official website/GitHub link, exact star count, license, and brief description.
+3. 🔗 Include project title, official website/GitHub link, exact Stars_Count, license, and brief description.
 4. 🚀 Submit a **Pull Request** with a concise description of your additions.
 
 ---
